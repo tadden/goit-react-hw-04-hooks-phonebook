@@ -1,5 +1,5 @@
 {
-  "name": "goit-react-hw-03-phonebook",
+  "name": "goit-react-hw-04-hooks-phonebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,13 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tadden/goit-react-hw-03-phonebook.git"
+    "url": "git+https://github.com/tadden/goit-react-hw-04-hooks-phonebook.git"
   },
   "author": "Ilja Kazanli <tadden12@gmail.com>",
   "bugs": {
-    "url": "https://github.com/tadden/goit-react-hw-03-phonebook/issues"
+    "url": "https://github.com/tadden/goit-react-hw-04-hooks-phonebook/issues"
   },
-  "homepage": "https://tadden.github.io/goit-react-hw-03-phonebook",
+  "homepage": "https://tadden.github.io/goit-react-hw-04-hooks-phonebook",
   "eslintConfig": {
     "extends": [
       "react-app",
