@@ -6,7 +6,7 @@ import s from './ContactForm.module.css';
      const [name, setName] = useState('');
      const [number, setNumber] = useState('');
 
-     const state = { name, number };
+    //  const state = { name, number };
 
      const handelChange = e => {
          const { name, value } = e.currentTarget;
@@ -25,7 +25,7 @@ import s from './ContactForm.module.css';
     
     const handleSubmit = e => {
         e.preventDefault();
-        onSubmit(state);
+        onSubmit({name, number});
         reset();
     };
 
